@@ -2,6 +2,7 @@ import argon2
 import os
 from dotenv import load_dotenv
 #testing git
+#testing git 2
 load_dotenv() 
 
 argon2Hasher = argon2.PasswordHasher(
