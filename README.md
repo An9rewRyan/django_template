@@ -1,2 +1,2 @@
-# (Will be) Secure web app for storing passwords
-# Crypto built with argon2ID
+## Securepass project
+This is a web app for storing your passwords. Everything encrypted via argon2ID algorithm.
