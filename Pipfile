@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 argon2-cffi = "*"
 python-dotenv = "*"
+django = "*"
 
 [dev-packages]
 
