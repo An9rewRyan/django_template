@@ -1,3 +1,4 @@
 Pipfile.lock
 src/__pycache__
+src/core/__pycache__
 src/.env
