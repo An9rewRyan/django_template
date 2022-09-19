@@ -1,2 +1,2 @@
-## Securepass project
-This is a web app for storing your passwords. Everything encrypted via argon2ID algorithm.
+## DJANGO TEMPALTE
+Basic django project template with configured statics and dockerization
